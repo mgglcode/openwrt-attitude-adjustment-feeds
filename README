@@ -1,0 +1,5 @@
+
+feeds directory of openwrt attitude adjustment as of 2013-10-19 
+after running 
+   ./scripts/feeds update -a 
+
